@@ -1,5 +1,7 @@
 # Go micro-service in ~30 minutes
 
+## https://www.youtube.com/watch?v=bM6N-vgPlyQ&list=PLy-NDN51bIDVUNrl5KpfdHqkHfpFEFvWW&index=1
+
 This is a Go micro-service written from scratch.
 
 It shows how to use [net/http](https://godoc.org/net/http), and how to structure a Go project.
